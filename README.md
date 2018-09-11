@@ -1,1 +1,2 @@
 # dummy-test
+PLEASE READ!
